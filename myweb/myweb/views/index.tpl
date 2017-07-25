@@ -2,7 +2,7 @@
 
 <div class="jumbotron">
     <h1>Jusalun的前进兵营</h1>
-    <p class="lead">扯淡类编程公众号：龙游码海。掘金类编程公众号：数据玩出花。</p>
+    <p class="lead">长缨在手 敢缚苍龙</p>
     <p><a href="http://jusalun.tech/index" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
 </div>
 
